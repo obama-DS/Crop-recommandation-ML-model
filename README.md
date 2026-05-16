@@ -31,4 +31,4 @@ Predicted crop name (for example: rice, wheat, maize, etc.)
 
 ## Note
 This is a basic machine learning project made for learning and practice.
-##Crop-recommandation-ML-model
+### Crop-recommandation-ML-model
