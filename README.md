@@ -30,4 +30,5 @@ Predicted crop name (for example: rice, wheat, maize, etc.)
    python crop_model.py
 
 ## Note
-This is a basic machine learning project made for learning and practice purposes.# Crop-recommandation-ML-model
+This is a basic machine learning project made for learning and practice.
+# Crop-recommandation-ML-model
