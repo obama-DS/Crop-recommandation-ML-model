@@ -3,7 +3,7 @@
 A simple machine learning project that suggests the most suitable crop to grow based on soil nutrients and weather conditions.
 
 The model is trained using a Random Forest Classifier on a dataset containing values for nitrogen, phosphorus, potassium, temperature, humidity, pH, and rainfall.
-
+ 
 ## How it works
 The system learns patterns from past agricultural data. When new soil and climate values are given, it predicts the best crop that matches those conditions.
 
